@@ -1,0 +1,16 @@
+
+
+create table Product(
+Product_id int primary key ,
+product_name varchar(50),
+Price int 
+
+
+);
+
+
+
+
+
+alter table  product 
+add Category VARCHAR (20) ;
